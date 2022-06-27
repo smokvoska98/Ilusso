@@ -1,0 +1,157 @@
+body{
+  font-family: 'Cardo';
+}
+
+/* NAVBAR */
+.navbar{
+  padding: 1% 2% !important;
+}
+.logo{
+  width: 180px;
+  height: 50px;
+
+}
+
+span{
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  padding: 15px;
+  transition: 0.5s all;
+
+}
+
+span:hover{
+  background-color: white;
+  color: black;
+}
+
+.nav-item .nav-link{
+  font-weight: bold;
+  color: black;
+}
+
+/* CONTAINER1 */
+
+.left{
+  padding: 10% 10% !important;
+}
+
+.left h1{
+  font-size: 100px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.left h4{
+  padding-top: 40px;
+}
+
+.right img{
+  position: relative;
+  right: 5%;
+
+}
+
+/* CONTAINER2 */
+.left-pic img{
+  position: relative;
+  right:2%;
+  padding-left: 6%;
+}
+
+.right1{
+  background-color: black;
+  position: relative;
+  right: 3.3%;
+
+}
+
+.right1 img{
+  position: absolute;
+  left:2px;
+  width: 80%;
+  margin: 20% 10%;
+
+}
+
+.ilusso-1{
+  color: white;
+  margin:45% 10%;
+  font-size: 14px;
+  text-align: left;
+}
+
+.right2 img{
+  position: relative;
+  right:12%;
+
+}
+
+
+.btnn {
+  background: #fffcff;
+  background-image: -webkit-linear-gradient(top, #fffcff, #ffffff);
+  background-image: -moz-linear-gradient(top, #fffcff, #ffffff);
+  background-image: -ms-linear-gradient(top, #fffcff, #ffffff);
+  background-image: -o-linear-gradient(top, #fffcff, #ffffff);
+  background-image: linear-gradient(to bottom, #fffcff, #ffffff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 32px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 25px;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  margin: 10% 10%;
+  position: absolute;
+  margin: -73px;
+  margin-left: 40px;
+}
+
+.btnn:hover {
+  background: #d1dce3;
+  background-image: -webkit-linear-gradient(top, #d1dce3, #bfcdd6);
+  background-image: -moz-linear-gradient(top, #d1dce3, #bfcdd6);
+  background-image: -ms-linear-gradient(top, #d1dce3, #bfcdd6);
+  background-image: -o-linear-gradient(top, #d1dce3, #bfcdd6);
+  background-image: linear-gradient(to bottom, #d1dce3, #bfcdd6);
+  text-decoration: none;
+  transition: 0.5s all;
+}
+
+.serving{
+  padding: 10%;
+  padding-left: 3%;
+  font-weight: bold;
+  font-size: 65px;
+  text-align: left;
+
+}
+
+.right3 p{
+  color:gray;
+}
+
+#footer{
+  background-color: black;
+  padding: 2% 2%;
+}
+
+.downlogo{
+  position: relative;
+  width:80%;
+  padding: 10% 10%;
+}
+
+ul li a{
+  text-decoration: none !important;
+  color: #fff;
+  padding: 10% 10%;
+  list-style: none;
+}
+
+.ul-list{
+  list-style-type: none;
+}
